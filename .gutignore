@@ -1,6 +1,8 @@
 .idea
 .ipynb_checkpoints
 Versions
+Data
 *.py
 *.txt
 *.csv
+*.xls
